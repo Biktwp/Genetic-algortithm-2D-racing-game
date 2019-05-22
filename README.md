@@ -1,1 +1,2 @@
-# Genetic-algortithm-2D-racing-game
+# Genetic algortithm 2D racing game
+
